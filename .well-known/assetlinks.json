@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.mhzfon",
+      "sha256_cert_fingerprints": [
+        "12:5B:FC:76:01:01:94:01:C9:61:5A:7A:6B:D4:D2:3D:38:C0:5E:F3:A3:24:BA:2C:7F:69:74:DD:BD:DF:2F:4D"
+      ]
+    }
+  }
+]
